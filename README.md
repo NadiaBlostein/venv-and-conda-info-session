@@ -1,5 +1,5 @@
 # venv-and-conda-info-session
-Tutorial I gave my laboratory on virtual environments and conda. The purpose of this tutorial is to learn how to properly manage data analysis projects in order to ensure their reproducibility. This tutorial requires some basic knowledge of Bash and Python.
+This is a tutorial I gave my laboratory on virtual environments and conda. The purpose of this tutorial is to learn how to properly manage data analysis projects in order to ensure their reproducibility. This tutorial requires some basic knowledge of Bash and Python. 
 
 
 ## File structure
